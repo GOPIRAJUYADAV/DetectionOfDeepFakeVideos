@@ -1,0 +1,37 @@
+Detection of Deepfake Videos Using Long Distance Attention
+
+Deepfake detection, face manipulation,attention mechanism,spatial and temporal artifacts.
+
+
+
+IEEE Transactions on Neural Networks and Learning Systems,Issue Date:06.January.2023
+
+
+Detection_of_Deepfake_Videos
+
+
+detection_of_deepfake_videos
+
+
+
+deepfake_video_detection
+
+
+
+Fid	
+video_id	
+title	
+channel_title	
+publish_time	
+tags	
+views	
+likes	
+dislikes	
+thumbnail_link	
+description
+Prediction
+
+
+
+Fine Grained classifier
+
